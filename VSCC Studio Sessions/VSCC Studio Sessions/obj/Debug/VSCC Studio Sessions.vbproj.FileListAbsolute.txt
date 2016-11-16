@@ -1,0 +1,13 @@
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\VSCC Studio Sessions.exe.config
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\VSCC Studio Sessions.exe
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\VSCC Studio Sessions.pdb
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\VSCC Studio Sessions.xml
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC_Studio_Sessions.Resources.resources
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC Studio Sessions.vbproj.GenerateResource.Cache
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC Studio Sessions.exe
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC Studio Sessions.xml
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC Studio Sessions.pdb
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\System.Data.SQLite.dll
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Debug\System.Data.SQLite.xml
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC Studio Sessions.vbprojResolveAssemblyReference.cache
+c:\users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Debug\VSCC_Studio_Sessions.VSCCSS.resources

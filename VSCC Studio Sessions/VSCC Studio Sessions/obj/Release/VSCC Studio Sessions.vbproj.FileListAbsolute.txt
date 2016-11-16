@@ -1,0 +1,18 @@
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.exe.config
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.exe.manifest
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.application
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.exe
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.pdb
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\VSCC Studio Sessions.xml
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\System.Data.SQLite.dll
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\bin\Release\System.Data.SQLite.xml
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC_Studio_Sessions.VSCCSS.resources
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC_Studio_Sessions.Resources.resources
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.vbproj.GenerateResource.Cache
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.TrustInfo.xml
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.exe.manifest
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.application
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.exe
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.xml
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.pdb
+C:\Users\taylo\documents\visual studio 2012\Projects\VSCC Studio Sessions\VSCC Studio Sessions\obj\Release\VSCC Studio Sessions.vbprojResolveAssemblyReference.cache
